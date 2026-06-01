@@ -21,16 +21,22 @@ Replayability.
 
 ## Technologies Used
 
-Python 3
-pygame
+1. Python 3
+2. pygame
 
 ## Game Objectives
 
 The player must :
+
 1. Find stranded farmers.
 2. Rescue as many as possible.
 3. Avoid dangerous obstacle.
 4. Reach the designated safe zone.
 5. Earn the heighest score possible.
 
+ ## installation 
 
+ ## Clone the Respository
+ '''bash 
+ git clone 
+ http// github.cpm/
