@@ -39,4 +39,4 @@ The player must :
  ## Clone the Respository
  '''bash 
  git clone 
- http// github.cpm/
+ http//github.com/
