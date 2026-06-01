@@ -85,23 +85,23 @@ while running:
      running = False
 
   # Draw safe zone
-  pygame.draw.rect(screen, GREEN, safe_zone)
+   pygame.draw.rect(screen, GREEN, safe_zone)
 
   # Draw flood
-  pygame.draw.rect(screen, BLUE, flood_rect)
+   pygame.draw.rect(screen, BLUE, flood_rect)
 
   # Draw player
-  pygame.draw.rect(screen, BLACK, player)
+   pygame.draw.rect(screen, BLACK, player)
 
   # Draw villagers
-  for v in villages:
+   for v in villages:
     pygame.draw.rect(screen, RED, v)
 
    #UI
-  draw_text(f"Score: {score}", 10, 10)
-  draw.text(f"Villagers left: {len(villagers)}", 10, 40)
-  pygame.display.update()
-pygame.quit()
+   draw_text(f"Score: {score}", 10, 10)
+   draw.text(f"Villagers left: {len(villagers)}", 10, 40)
+   pygame.display.update()
+ pygame.quit()
 
 if __name__ == "__main__":
   main()
