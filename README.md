@@ -11,10 +11,12 @@ This game aim is to raise awareness of these challenges through an interactive a
 
 ## Features
 
-Player movement and navigaion 
-Enviromental hazards 
-Farmer rescue missions
-Score tracking system
-Win and lose conditions 
-Increasing difficulty levels
-Replayability
+Player movement and navigaion. 
+Enviromental hazards.
+Farmer rescue missions.
+Score tracking system.
+Win and lose conditions. 
+Increasing difficulty levels.
+Replayability.
+
+
